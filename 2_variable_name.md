@@ -1,21 +1,24 @@
-6.1   
+6.1  
 max_vote - winner_votes  
 depth - tree_depth  
 result - finding_result  
 data - input_data  
 triplet - sorting_triplet  
+
 6.2  
 NodeHasKey  
 NodeKey  
 LeftChild  
 RightChild  
 votes_dictionary  
+
 6.3  
 box_length  
-box_width 
-box_volume 
-electron_mass 
-proton_momentum 
+box_width  
+box_volume  
+electron_mass  
+proton_momentum  
+
 6.4  
 N - rings_number  
 // число колец  
