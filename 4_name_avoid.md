@@ -1,1 +1,15 @@
-
+rings_lst - all_rings_variants  
+rings_gen - rings_generator  
+last_index - last_operation  
+count - operations_count  
+undo_list - new_history  
+s1 - one_number  
+s2 - another_number  
+long - reducible_number  
+short - deductible_number  
+combs - combinations  
+free - free_cells  
+day - battle_day  
+lst_words - words  
+formated - formated_text  
+text - aligned_text
